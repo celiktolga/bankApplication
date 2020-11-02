@@ -1,6 +1,6 @@
 
 
-## Task 2:   a REST API using Spring Rest Controllers and TEST
+## REST API using Spring Rest Controllers and TEST
 a REST API to the banking system as follows. The following code demonstrates how BankAccounts might be used.  
 
 To deposit money into an account, one would use:
